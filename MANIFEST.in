@@ -1,0 +1,7 @@
+recursive-include src/data *
+recursive-include src/ppt *
+recursive-include output *
+include ppt/base.pptx
+include run.bat
+include install.bat
+include requirements.txt
