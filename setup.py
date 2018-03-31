@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name="PyPPTX",
-    version="0.1.0",
+    version="0.1.5",
     author="sf",
     author_email="s-fujimoto@seig-boys.jp",
     packages=["src", "data", "output", "ppt"],
